@@ -7,3 +7,6 @@
 body {
     background-color: #f3e5d7;
 }
+h1, h2 {
+    font-family: 'lora', serif;
+}
